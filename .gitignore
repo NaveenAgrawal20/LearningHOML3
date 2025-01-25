@@ -1,0 +1,28 @@
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+
+# Ignore model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Ignore log files
+*.log
+
+# Ignore configuration files
+*.config
+*.cfg
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/

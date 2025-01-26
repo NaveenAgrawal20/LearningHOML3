@@ -17,6 +17,8 @@ data/*
 *.hdf5
 *.pkl
 *.joblib
+*.pth
+*.pt
 
 # Ignore log files
 *.log

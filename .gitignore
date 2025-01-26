@@ -12,6 +12,7 @@ __pycache__/
 *.json
 
 # Ignore model files
+data/*
 *.h5
 *.hdf5
 *.pkl
